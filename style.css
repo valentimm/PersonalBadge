@@ -22,7 +22,10 @@ main {
   height: 812px;
   color: var(--gray);
 }
-
+img{
+  position: center;
+  
+}
 .content {
   max-width: 250px;
   margin: auto;
@@ -48,6 +51,11 @@ main {
   clip-path: polygon(50% 0, 100% 21%, 100% 79%, 50% 100%, 0 79%, 0 21%);
 
 }
+figure {
+   margin-top: -47.8rem;
+   margin-left: -33rem;
+}
+
 h1 {
   font-size: 1.5rem;
   
