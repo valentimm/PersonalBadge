@@ -100,7 +100,7 @@ ul{
 @media only screen and (max-width: 720px) { 
   body{
     background: none;
-    background-color: black;
+    background-color: none;
   }
   main{
     background: url(/images/background-cover.svg) no-repeat center/cover;
@@ -128,7 +128,7 @@ ul{
 @media only screen and (max-width: 960px) { 
   body{
     background: none;
-    background-color: black;
+    background-color: none;
   }
   main{
     background: url(/images/background-cover.svg) no-repeat center/cover;
@@ -156,7 +156,7 @@ ul{
 @media only screen and (max-width: 1400px) { 
   body{
     background: none;
-    background-color: black;
+    background-color: none;
   }
   main{
     background: url(/images/background-cover.svg) no-repeat center/cover;
@@ -183,7 +183,7 @@ ul{
 @media only screen and (min-width: 1400px) { 
   body{
     background: none;
-    background-color: black;
+    background-color: none;
   }
   main{
     background: url(/images/background-cover.svg) no-repeat center/cover;
