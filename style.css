@@ -103,7 +103,7 @@ ul{
     background-color: black;
   }
   main{
-    background: url(/images/background-desktop.svg) no-repeat center/cover;
+    background: url(/images/background-cover.svg) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
@@ -131,7 +131,7 @@ ul{
     background-color: black;
   }
   main{
-    background: url(/images/background-desktop.svg) no-repeat center/cover;
+    background: url(/images/background-cover.svg) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
@@ -159,7 +159,7 @@ ul{
     background-color: black;
   }
   main{
-    background: url(/images/background-desktop.svg) no-repeat center/cover;
+    background: url(/images/background-cover.svg) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
@@ -186,7 +186,7 @@ ul{
     background-color: black;
   }
   main{
-    background: url(/images/background-desktop.svg) no-repeat center/cover;
+    background: url(/images/background-cover.svg) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
